@@ -1,0 +1,46 @@
+body{
+    background-image: url(concrete_seamless.png);
+    background: linear-gradient(rgb(214, 166, 166), rgb(229, 229, 140));
+
+}
+.boxColor{
+    background-color: whitesmoke;
+}
+.img{
+    width: 120px;
+}
+.portfolio{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+     color: #4aaaa5 ;
+}
+
+.footerContainer{
+
+        padding: 30px 0;
+        max-width: 100%;
+        clear: both;
+        font-size: 12px;
+        color: rgb(36, 26, 26);
+        color: rgb(39, 31, 31);
+        text-align: center;
+        background: linear-gradient(rgb(214, 166, 166), rgb(229, 229, 140));
+        border-top: 8px solid linear-gradient(rgb(214, 166, 166), rgb(229, 229, 140));
+        height: 50px;
+      
+      
+}
+.firstPic{
+    padding: 0px 0px -1px 35px; 
+    box-shadow: 10px 10px 5px rgb(241, 231, 231); 
+    width: 216px; 
+    border: 2px solid rgb(83, 75, 75);
+    border-radius: 5px;
+}
+/*.secondPic {
+    padding: 0px 0px -1px 35px; 
+    box-shadow: 10px 10px 5px rgb(241, 231, 231); 
+    width: 216px; 
+    border: 2px solid rgb(83, 75, 75);
+    border-radius: 5px;
+
+}
